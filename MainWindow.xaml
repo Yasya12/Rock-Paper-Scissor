@@ -1,0 +1,30 @@
+﻿<Window x:Class="Rock_Paper_Scissor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Rock_Paper_Scissor"
+        mc:Ignorable="d"
+        Title="Rock-Paper-Scissor" Height="500" Width="350">
+
+    <Canvas Background="#FAF1E4">
+        <Canvas x:Name="BaseCanvas" Background="#FAF1E4">
+            <Label Name="yourScore" FontSize="14" FontWeight="Bold" Content="you: 0" Canvas.Left="20"/>
+            <Label Name="drawScore" FontSize="14" FontWeight="Bold" Content="draw: 0" Canvas.Left="145"/>
+            <Label Name="robotScore" FontSize="14" FontWeight="Bold" Content="robot: 0" Canvas.Left="260"/>
+
+            <Rectangle Name="robot" Height="60" Width="60" Fill="Black" Canvas.Left="145" Canvas.Top="130"/>
+            <Label Name="chose" FontSize="14" FontWeight="Bold" Content="rock - paper - scissor" Canvas.Left="110" Canvas.Top="200"/>
+            <Rectangle Name="rock" Height="60" Width="60" Fill="Black" Canvas.Left="65" Canvas.Top="240"/>
+            <Rectangle Name="paper" Height="60" Width="60" Fill="Black" Canvas.Left="145" Canvas.Top="240"/>
+            <Rectangle Name="scissor" Height="60" Width="60" Fill="Black" Canvas.Left="225" Canvas.Top="240"/>
+        </Canvas>
+
+        <Canvas x:Name="ChoiceCanvas" Visibility="Visible" Background="#FAF1E4">
+        </Canvas>
+
+        <Canvas x:Name="ResultCanvas" Visibility="Hidden" Background="#FAF1E4">
+
+        </Canvas>
+    </Canvas>
+</Window>
