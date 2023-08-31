@@ -7,24 +7,23 @@
         mc:Ignorable="d"
         Title="Rock-Paper-Scissor" Height="500" Width="350">
 
-    <Canvas Background="#FAF1E4">
-        <Canvas x:Name="BaseCanvas" Background="#FAF1E4">
+    <Grid Background="#FAF1E4">
+        <Canvas x:Name="BaseCanvas" Background="#FAF1E4" Visibility="Visible">
             <Label Name="yourScore" FontSize="14" FontWeight="Bold" Content="you: 0" Canvas.Left="20"/>
             <Label Name="drawScore" FontSize="14" FontWeight="Bold" Content="draw: 0" Canvas.Left="145"/>
             <Label Name="robotScore" FontSize="14" FontWeight="Bold" Content="robot: 0" Canvas.Left="260"/>
 
             <Rectangle Name="robot" Height="60" Width="60" Fill="Black" Canvas.Left="145" Canvas.Top="130"/>
             <Label Name="chose" FontSize="14" FontWeight="Bold" Content="rock - paper - scissor" Canvas.Left="110" Canvas.Top="200"/>
-            <Rectangle Name="rock" Height="60" Width="60" Fill="Black" Canvas.Left="65" Canvas.Top="240"/>
-            <Rectangle Name="paper" Height="60" Width="60" Fill="Black" Canvas.Left="145" Canvas.Top="240"/>
-            <Rectangle Name="scissor" Height="60" Width="60" Fill="Black" Canvas.Left="225" Canvas.Top="240"/>
+            <Rectangle Name="rock" Height="60" Width="60" Fill="Black" Canvas.Left="65" Canvas.Top="240" MouseLeftButtonDown="rock_MouseLeftButtonDown"/>
+            <Rectangle Name="paper" Height="60" Width="60" Fill="Black" Canvas.Left="145" Canvas.Top="240" MouseLeftButtonDown="paper_MouseLeftButtonDown"/>
+            <Rectangle Name="scissor" Height="60" Width="60" Fill="Black" Canvas.Left="225" Canvas.Top="240" MouseLeftButtonDown="scissor_MouseLeftButtonDown"/>
         </Canvas>
-
-        <Canvas x:Name="ChoiceCanvas" Visibility="Visible" Background="#FAF1E4">
+        
+        <Canvas x:Name="ChoseCanvas" Background="#FAF1E4" Visibility="Hidden" Height="410" >
+            <Rectangle Name="robotChose" Height="60" Width="60" Fill="Black" Canvas.Left="145" Canvas.Top="130"/>
+            <Label Name="result" FontSize="14" FontWeight="Bold" Content="Draw!" Canvas.Left="150" Canvas.Top="200"/>
+            <Rectangle Name="playerChose" Height="60" Width="60" Fill="Black" Canvas.Left="145" Canvas.Top="240"/>
         </Canvas>
-
-        <Canvas x:Name="ResultCanvas" Visibility="Hidden" Background="#FAF1E4">
-
-        </Canvas>
-    </Canvas>
+    </Grid>
 </Window>
