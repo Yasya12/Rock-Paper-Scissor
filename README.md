@@ -5,7 +5,8 @@ This is the rock-paper-scissor game using WPF where XAML is a frontend language 
 
 https://www.instagram.com/deepistertalks/
 
-- Inspired by the game of [deepistertalks]("https://www.instagram.com/deepistertalks/").
+- - Inspired by the game of [deepistertalks](https://www.instagram.com/deepistertalks/).
+
   
 - Inspired by the game of <a href="(https://www.instagram.com/deepistertalks/)" title="page">deepistertalks</a>.
 
