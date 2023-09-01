@@ -6,7 +6,9 @@ https://www.flaticon.com/free-icon/robot_3662817?term=robot&page=1&position=10&o
 <a href="https://www.flaticon.com/free-icons/robot" title="robot icons">Robot icons created by Freepik - Flaticon</a>
 
 - Robot icon from [here]("(https://www.flaticon.com/free-icon/robot_3662817?term=robot&page=1&position=10&origin=tag&related_id=3662817)").
-
+  
+- Robot icon made by [Freepik - Flaticon]((https://www.flaticon.com/free-icons/robot)) from [www.flaticon.com](https://www.flaticon.com/).
+  
 - Fist (rock) icon made by [Smashicons](https://www.flaticon.com/authors/smashicons) from [www.flaticon.com](https://www.flaticon.com/).
 
 - Five fingers (paper) icon made by [Freepik](https://www.freepik.com) from [www.flaticon.com](https://www.flaticon.com/).
