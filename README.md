@@ -1,7 +1,7 @@
 
 # README.md
 
-This is the rock-paper-scissor game. 
+This is the rock-paper-scissor game using WPF where XAML is a frontend language and C# is a backend languages.
 
 - Robot icon created by <a href="https://www.flaticon.com/free-icons/robot" title="robot icons">Freepik - Flaticon</a>.
   
