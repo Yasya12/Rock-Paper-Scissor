@@ -14,8 +14,8 @@ This is the rock-paper-scissor game.
 - Color pallete from [Color Hunt](https://colorhunt.co/palette/faf1e4cedebd9eb384435334)
 ## Screenshots
 
-![title](images/rock.png)
-![title](images/rock.png)
+![title](images/demo_1.jpg)
+![title](images/demo_2.jpg)
 
 ## Authors
 
