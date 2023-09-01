@@ -11,12 +11,11 @@ This is the rock-paper-scissor game.
 
 - Victory (scissor) icon made by [ Vitaly Gorbachev](https://www.flaticon.com/authors/vitaly-gorbachev) from [www.flaticon.com](https://www.flaticon.com/).
 
-- Color pallete from [here](https://colorhunt.co/palette/faf1e4cedebd9eb384435334)
+- Color pallete from [Color Hunt](https://colorhunt.co/palette/faf1e4cedebd9eb384435334)
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/12OVzc2ZvJP3EBjyjCj7Ch47cxVgdwkXZ/view?usp=sharing)
-
-
+![title](images/rock.png)
+![title](images/rock.png)
 
 ## Authors
 
