@@ -5,7 +5,7 @@ This is the rock-paper-scissor game.
 https://www.flaticon.com/free-icon/robot_3662817?term=robot&page=1&position=10&origin=tag&related_id=3662817
 <a href="https://www.flaticon.com/free-icons/robot" title="robot icons">Robot icons created by Freepik - Flaticon</a>
 
-- Robot icon from [Robot icons created by Freepik - Flaticon]("(https://www.flaticon.com/free-icon/robot_3662817?term=robot&page=1&position=10&origin=tag&related_id=3662817)").
+- Robot icon from [here]("(https://www.flaticon.com/free-icon/robot_3662817?term=robot&page=1&position=10&origin=tag&related_id=3662817)").
 
 - Fist (rock) icon made by [Smashicons](https://www.flaticon.com/authors/smashicons) from [www.flaticon.com](https://www.flaticon.com/).
 
