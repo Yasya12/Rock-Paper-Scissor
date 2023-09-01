@@ -3,12 +3,7 @@
 
 This is the rock-paper-scissor game using WPF where XAML is a frontend language and C# is a backend languages.
 
-https://www.instagram.com/deepistertalks/
-
-- - Inspired by the game of [deepistertalks](https://www.instagram.com/deepistertalks/).
-
-  
-- Inspired by the game of <a href="(https://www.instagram.com/deepistertalks/)" title="page">deepistertalks</a>.
+- Inspired by the game of [deepistertalks](https://www.instagram.com/deepistertalks/).
 
 - Robot icon created by <a href="https://www.flaticon.com/free-icons/robot" title="robot icons">Freepik - Flaticon</a>.
   
